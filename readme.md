@@ -1,12 +1,11 @@
 My VIM Settings
 ===============
-This project extract from [my dot files](https://github.com/axiaoxin/mac-dotfiles)
 
 :100:
 
 There is no plugins manager. So, you need copy the plugin's files to `.vim` when you want to add some plugins.
 
-New settings use Vundle, checkout it in vundel branch
+another diffrent settings use Vundle, checkout it in vundel branch
 
 just put the `.vim` directory and `.vimrc` into the home path
 
