@@ -5,7 +5,7 @@ My VIM Settings
 
 There is no plugins manager. So, you need copy the plugin's files to `.vim` when you want to add some plugins.
 
-another diffrent settings use Vundle, checkout it in vundel branch
+it deaded! another diffrent settings use Vundle, checkout it in vundel branch
 
 just put the `.vim` directory and `.vimrc` into the home path
 
