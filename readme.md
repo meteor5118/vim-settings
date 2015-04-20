@@ -1,6 +1,6 @@
 My VIM Settings
 ===============
-(Deaded! Another diffrent settings use Vundle, checkout it in **vundel branch**)
+(Deaded! Another diffrent settings use Vundle, checkout it in [**vundel branch**](https://github.com/axiaoxin/vim-settings/tree/vundle))
 
 There is no plugins manager. So, you need copy the plugin's files to `.vim` when you want to add some plugins.
 
