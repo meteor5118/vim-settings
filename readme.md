@@ -1,11 +1,8 @@
 My VIM Settings
 ===============
-
-:100:
+(Deaded! Another diffrent settings use Vundle, checkout it in **vundel branch**)
 
 There is no plugins manager. So, you need copy the plugin's files to `.vim` when you want to add some plugins.
-
-it deaded! another diffrent settings use Vundle, checkout it in vundel branch
 
 just put the `.vim` directory and `.vimrc` into the home path
 
